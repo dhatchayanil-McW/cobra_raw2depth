@@ -15,7 +15,6 @@
 #include <cstdarg>
 #include <vector>
 #include <thread>
-#include <array>
 
 static const int NS_PER_MS  { 1000000 };
 
